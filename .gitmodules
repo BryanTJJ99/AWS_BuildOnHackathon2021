@@ -1,0 +1,3 @@
+[submodule "AWS_BuildOn2021"]
+	path = AWS_BuildOn2021
+	url = https://github.com/danieltwh/AWS_BuildOn2021.git
